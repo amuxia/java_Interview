@@ -42,3 +42,5 @@
 
 [面试中经常被问到Java引用类型原理，带你深入剖析](http://mp.weixin.qq.com/s?__biz=MzIyNDU2ODA4OQ==&amp;mid=2247484186&amp;idx=1&amp;sn=b87701617178a33c42c32576ff8c62a4&amp;chksm=e80db56cdf7a3c7a6807e1e1001bc5cb46e7b89d0e80eb653bf3aef350e7c46fff7a60f0d257&amp;scene=21#wechat_redirect)  
 
+
+
